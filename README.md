@@ -1,2 +1,2 @@
 # juandelpueblo.github.io
-Attempt at learning web dev from scratch
+Recreation of MCPueblo site as an attempt to learn web dev
